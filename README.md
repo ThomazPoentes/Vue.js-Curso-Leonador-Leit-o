@@ -10,9 +10,9 @@ As diretivas no Vue.js têm características específicas, que nos ajudam na sua
 Diretivas do Vue.JS aprendidas nesse curso:
 
 v-bind:
-- A diretiva v-bind é uma diretiva Vue.js usada para ligar um ou mais atributos, ou um componente prop a um  
+* A diretiva v-bind é uma diretiva Vue.js usada para ligar um ou mais atributos, ou um componente prop a um  
 elemento. 
-- Se esse atributo estiver vinculado aos nossos dados definidos na instância do Vue, então as
+* Se esse atributo estiver vinculado aos nossos dados definidos na instância do Vue, então as
 mudanças dinamicamente podem ser observadas conforme os dados mudam.
 
 
