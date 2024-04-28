@@ -4,7 +4,7 @@
 
 # Índice 
 
-** [Diretivas Vue.js](#diretivas-vuejs)
+* [Diretivas Vue.js](#diretivas-vuejs)
 
 
 <h1 id="diretivas-vuejs" align="center">Diretivas Vue.js</h1>
@@ -22,7 +22,7 @@ mudanças dinamicamente podem ser observadas conforme os dados mudam.
 **V-ONCE:**
 * A diretiva v-once é uma diretiva Vue.js usada para evitar re-renderizações indesejadas de um elemento.
 
-***V-HTML**
+**V-HTML**
 * A diretiva v-html é uma diretiva Vue.js usada para atualizar o innerHTML de um elemento com nossos dados. Isso é o que o separa do v-text, o que significa que enquanto o v-text aceita string e o trata como uma string, ele aceitará a string e o renderizará em HTML.
 
 
